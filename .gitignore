@@ -1,0 +1,10 @@
+*.xml
+*.pyc
+*.iml
+*.mo
+*.po
+*.exe
+*.bat
+*.ps1
+*.cfg
+/venv/*
